@@ -1,0 +1,1 @@
+last index of an array or a stack is always called -1
